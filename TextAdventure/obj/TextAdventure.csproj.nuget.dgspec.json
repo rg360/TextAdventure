@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/TextAdventure.csproj": {}
+    "/Users/rg/Projects/repos/TextAdventure/TextAdventure/TextAdventure.csproj": {}
   },
   "projects": {
-    "/Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/TextAdventure.csproj": {
+    "/Users/rg/Projects/repos/TextAdventure/TextAdventure/TextAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/TextAdventure.csproj",
+        "projectUniqueName": "/Users/rg/Projects/repos/TextAdventure/TextAdventure/TextAdventure.csproj",
         "projectName": "TextAdventure",
-        "projectPath": "/Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/TextAdventure.csproj",
+        "projectPath": "/Users/rg/Projects/repos/TextAdventure/TextAdventure/TextAdventure.csproj",
         "packagesPath": "/Users/rg/.nuget/packages/",
-        "outputPath": "/Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/obj/",
+        "outputPath": "/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rg/.config/NuGet/NuGet.Config"

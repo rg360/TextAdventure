@@ -22,3 +22,15 @@
 /Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.dll
 /Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.pdb
 /Users/rg/Desktop/Projects/Repository/TextAdventureApp/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.genruntimeconfig.cache
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.deps.json
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.runtimeconfig.json
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.runtimeconfig.dev.json
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.dll
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.pdb
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.csprojAssemblyReference.cache
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.AssemblyInfoInputs.cache
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.AssemblyInfo.cs
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.csproj.CoreCompileInputs.cache
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.dll
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.pdb
+/Users/rg/Projects/repos/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.genruntimeconfig.cache
