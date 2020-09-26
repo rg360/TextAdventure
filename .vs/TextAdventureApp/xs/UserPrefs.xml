@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{19E2F092-A266-423F-9EDF-805014A1155B}|Default">
+  <MonoDevelop.Ide.ItemProperties.TextAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextAdventure/Program.cs">
+    <Files>
+      <File FileName="TextAdventure/Program.cs" Line="40" Column="2" />
+      <File FileName="TextAdventure/Instructions.cs" />
+      <File FileName="TextAdventure/WhoYou.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextAdventureApp" expanded="True">
+            <Node name="TextAdventure" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
