@@ -144,6 +144,7 @@ namespace TextAdventure
                                 if (height >= heightLimit)
                                 {
                                     Typewriter("That will be $2.\n");
+                                    Typewriter("Show me the money");
                                     double fare = Convert.ToDouble(Console.ReadLine());
 
                                     if (fare >= 2)
