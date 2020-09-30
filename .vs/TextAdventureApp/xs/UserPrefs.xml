@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.TextAdventure PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TextAdventure/Program.cs">
     <Files>
-      <File FileName="TextAdventure/Program.cs" Line="147" Column="69" />
-      <File FileName="TextAdventure/Instructions.cs" />
-      <File FileName="TextAdventure/WhoYou.cs" />
+      <File FileName="TextAdventure/Program.cs" Line="140" Column="60" />
+      <File FileName="TextAdventure/Instructions.cs" Line="24" Column="16" />
+      <File FileName="TextAdventure/WhoYou.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
