@@ -111,6 +111,7 @@ namespace TextAdventure
                         string num5 = "6";
 
                         Typewriter("What ride would you like to try?\n");
+                        Instructions.Rides();
 
                         val2 = Console.ReadLine();
                         string response = val2.ToLower();
