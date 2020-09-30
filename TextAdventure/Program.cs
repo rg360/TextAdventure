@@ -87,23 +87,28 @@ namespace TextAdventure
                         string substr1 = "ferris";
                         string substr2 = "wheel";
                         string quit = "leave";
+                        string num1 = "2";
 
                         //Merry-Go-Round substring
                         string substr3 = "merry";
                         string substr4 = "go";
                         string substr5 = "round";
+                        string num2 = "3";
 
                         //Bumper Boats substring
                         string substr6 = "bumper";
                         string substr7 = "boat";
+                        string num3 = "4";
 
                         //Roller Coaster substring
                         string substr8 = "roller";
                         string substr9 = "coaster";
+                        string num4 = "5";
 
                         //Drop Tower substring
                         string substr10 = "drop";
                         string substr11 = "tower";
+                        string num5 = "6";
 
                         Typewriter("What ride would you like to try?\n");
 
@@ -111,7 +116,7 @@ namespace TextAdventure
                         string response = val2.ToLower();
 
                         //Teacup ride
-                        if (response == "teacup")
+                        if (response == "teacup" || response == "1")
                         {
                             Typewriter("Ahh... Teacup Ride\n");
                             Thread.Sleep(2000);
@@ -130,9 +135,9 @@ namespace TextAdventure
                             else break;
                         }
                         //Ferris Wheel ride condition
-                        else if (response.Contains(substr1) || response.Contains(substr2))
+                        else if (response.Contains(substr1) || response.Contains(substr2) || response.Contains(num1))
                         {
-
+                            Typewriter("The Ferris Wheel!!!\n");
                             Typewriter("Oooo.... dare devil\n");
                             Typewriter("Need to check your height first\n");
                             Typewriter("How tall are you in feet?\n");
@@ -184,7 +189,7 @@ namespace TextAdventure
                             else break;
                         }
                         //Merry-Go-Round ride condition
-                        else if (response.Contains(substr3) || response.Contains(substr4) || response.Contains(substr5))
+                        else if (response.Contains(substr3) || response.Contains(substr4) || response.Contains(substr5) || response.Contains(num2))
                         {
                             Typewriter("Merry-Go-Round\n");
                             Typewriter("Afraid you will throw up?\n");
@@ -203,7 +208,7 @@ namespace TextAdventure
 
                         }
                         //Bumper Boats ride condition
-                        else if (response.Contains(substr6) || response.Contains(substr7))
+                        else if (response.Contains(substr6) || response.Contains(substr7) || response.Contains(num3))
                         {
                             Typewriter("Bumper Boats?\n");
                             Typewriter("Need a life vest?\n");
@@ -221,7 +226,7 @@ namespace TextAdventure
                             else break;
                         }
                         //Roller Coaster ride condition
-                        else if (response.Contains(substr8) || response.Contains(substr9))
+                        else if (response.Contains(substr8) || response.Contains(substr9) || response.Contains(num4))
                         {
                             Typewriter("Wow! Roller Coaster");
                             Typewriter("Need to check your height first");
@@ -258,7 +263,7 @@ namespace TextAdventure
                             else break;
                         }
                         //Drop Tower ride condition
-                        else if (response.Contains(substr10) || response.Contains(substr11))
+                        else if (response.Contains(substr10) || response.Contains(substr11) || response.Contains(num5))
                         {
                             Typewriter("Drop tower... awesome!\n");
                             Typewriter("Need to check your height first\n");
